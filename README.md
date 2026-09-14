@@ -6,9 +6,6 @@ a simple Telegram bot Built with Python and pyTelegramBotAPI
 - Responds to /start command
 - Echos back any message
 
-##Technologies
--Python 3 
--pyTelegramBotAPI
 
 ## How to Run
 1.install dependencies: 'pip install pyTelegramBotAPI
