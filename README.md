@@ -15,4 +15,4 @@ a simple Telegram bot Built with Python and pyTelegramBotAPI
 ## Author 
 -Khadije Barbari([GitHub](https://github.com/kadijebarbari1997-sudo))
 ## thanks
-special thanks to everyoneupported me on this journey
+special thanks to everyone who supported me on this journey
